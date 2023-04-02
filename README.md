@@ -1,4 +1,4 @@
-# flutter_notion_budget
+# Flutter + Notion budget tracker app
 
 Flutter project to create a simple app following a tutorial, to learn how to do https requests for notion and proper usage of secrets.
 
